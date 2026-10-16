@@ -5,7 +5,7 @@
   
   <br/><br/>
   <h1>Hi, I'm Emanuele Marano</h1>
-  <h3> Backend & DevOps Engineer | Aspiring MLOps Specialist</h3>
+  <h3> Software Engineer</h3>
   <p>Architecting highly resilient, microservices-based cloud environments and scalable backend solutions.</p>
 </div>
 
