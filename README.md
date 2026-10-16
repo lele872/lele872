@@ -26,7 +26,7 @@
 
 ---
 
-## ⚡ Engineering Philosophy
+## Engineering Philosophy
 
 I focus on building software that goes beyond working code — systems that are **maintainable, scalable, secure, and production-ready**.
 
@@ -36,7 +36,7 @@ I focus on building software that goes beyond working code — systems that are 
 - **Data & Persistence:** Building data-driven applications and working with MongoDB and enterprise data pipelines.
 - **Exploring MLOps & AI Infrastructure:** Developing expertise in model deployment, ML pipelines, distributed training, vector databases, and cloud-native infrastructure for AI workloads.
 
-## 🛠️ Core Technology Stack
+## Core Technology Stack
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I focus on building software that goes beyond working code — systems that are 
 
 </div>
 
-## ☁️ Cloud-Native Mindset
+## Cloud-Native Mindset
 
 My approach combines application development with infrastructure awareness: understanding how services communicate, how environments are isolated, how workloads are deployed, and how systems can evolve as their requirements grow.
 
@@ -77,7 +77,7 @@ I'm particularly interested in the intersection of:
 - **CI/CD & Infrastructure Automation**
 - **Machine Learning Infrastructure & MLOps**
 
-## 🚀 What's Next?
+## What's Next?
 
 Expanding my expertise toward **MLOps and AI infrastructure engineering** — exploring reliable model serving, reproducible ML pipelines, distributed workloads, and scalable infrastructure for machine learning applications.
 
